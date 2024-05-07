@@ -1,0 +1,11 @@
+function main params endparams 
+bool b0
+float f1
+= f1 10
+float f2
+= f2 20
+bool b3
+<=b3 f1 f2
+= b0 b3
+endfunction
+
